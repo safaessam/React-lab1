@@ -1,0 +1,27 @@
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  /* Main content styles */
+  #main-content {
+    padding: 20px;
+  }
+  
+  /* BioSection styles */
+  #bio {
+    background-color: #f4f4f4;
+  }
+  
+  #bio h2 {
+    color: #333;
+  }
+  
+  #bio p {
+    color: #666;
+  }
+  
+  
+  
